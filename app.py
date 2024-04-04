@@ -6,7 +6,8 @@ from langchain.chains import LLMChain
 from langchain_core.prompts import PromptTemplate
 import os
 
-api_key = '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'
+# Enter your api key here in the api_key
+api_key = ''
 os.environ['OPENAI_API_KEY'] = api_key
 
 def generate_LinkedIn_post(question):
