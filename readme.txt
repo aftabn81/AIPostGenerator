@@ -3,9 +3,9 @@
 Have you ever struggled with writing posts for social media?
 How about content that grabs the attention of target audience?
 
-You know it is challenge. 
-- It needs a great hook. 
-- Great content in short form. 
+You know it is a challenge. 
+- Content Generation needs a great hook. 
+- Followed by good conent in short form. 
 - And totally different styles for LinkedIn than X (formely Twitter).
 
  How would you like AI generated content to get you started? 
